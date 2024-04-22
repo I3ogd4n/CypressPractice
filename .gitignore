@@ -1,0 +1,30 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Node.js dependencies
+node_modules
+
+# Cypress binary cache
+.cache/
+
+# Cypress videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Local Cypress configuration
+cypress.env.json
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Environment variables file
+.env
